@@ -2,8 +2,3 @@ version: "1.4"
 namespace:
     key: default
     name: Default
-flags:
-    - key: sfdfsdfsdf
-      name: sfdfsdfsdf
-      type: VARIANT_FLAG_TYPE
-      enabled: false
